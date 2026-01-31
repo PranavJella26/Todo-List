@@ -1,4 +1,3 @@
-# Todo-List
 ## Todo List Application
 A simple Todo List built using vanilla JavaScript that demonstrates clean state management, DOM manipulation, and local storage persistence.
 
